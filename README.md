@@ -37,17 +37,17 @@ The owner is notified through the app on the arrival of a visitor before the vis
 
 5.  List of Features
 
-..Face Recognition system 
-..Automated door lock and unlock system  
-..GUI based information collection system
-..Maintains an entry and exit database 
-..Mobile Application
-...Allows the owner to grant and deny access 
-...Notifies the owner on arrival of visitors 
-...Displays history 
-...Provides information of local help
-...Provides emergency numbers
-...Provides notices board information 
+Face Recognition system 
+Automated door lock and unlock system  
+GUI based information collection system
+Maintains an entry and exit database 
+Mobile Application
+>Allows the owner to grant and deny access 
+>Notifies the owner on arrival of visitors 
+>Displays history 
+>Provides information of local help
+>Provides emergency numbers
+>Provides notices board information 
 
 Face Recognition system
 A facial recognition system is a technology capable of identifying or verifying a person from a digital image or a video frame from a video source. 
