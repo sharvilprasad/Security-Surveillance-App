@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Security App</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="welcome">Welcome!</string>
+    <string name="enter_details">Please enter your details.!</string>
+
+
+    <!--Buttons -->
+    <string name="btn_login">LogIn</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="btn_signIn">Sign In</string>
+    <string name="btn_accept">ACCEPT</string>
+    <string name="btn_denied">DENIED</string>
+
+    <!--Data -->
+    <string name="email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Name">Name</string>
+    <string name="PhoneNo.">Phone No.</string>
+    <string name="FlatNo.">Flat No.</string>
+    <string name="Buildingname">Building Name</string>
+    <string-array name="building_name">
+        <item>*Select Building Name*</item>
+        <item>Building One</item>
+        <item>Building Two</item>
+    </string-array>
+
+    <!--Data -->
+    <string name="dashboard">Dashboard</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="History">History</string>
+    <string name="Notices">Notices</string>
+    <string name="Local_help">Local Help</string>
+    <string name="Emergency">Emergency</string>
+    <string name="Requests">Requests</string>
+
+
+</resources>

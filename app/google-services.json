@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "84177070828",
+    "firebase_url": "https://security-app-35f03.firebaseio.com",
+    "project_id": "security-app-35f03",
+    "storage_bucket": "security-app-35f03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84177070828:android:b4eb4b0d610af20ebfd3c9",
+        "android_client_info": {
+          "package_name": "com.sharvil.securityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84177070828-9v4qp7kl1lgoajnh5mdvjcsii28ovn3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjPohstUJLMDr3D884V7qsW5mneOUDows"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84177070828-9v4qp7kl1lgoajnh5mdvjcsii28ovn3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
